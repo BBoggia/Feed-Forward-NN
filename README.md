@@ -1,2 +1,2 @@
 # Feed-Forward-NN
-This is a basic feed forward neural network for binary classification.
+This is a basic feed forward neural network for binary classification. The user will input the number of points,  number of loops, hidden layer nodes, learning rate, and method of random point generation, i.e. moons or circles. It'll then attempt classify the generated points and minimize it's error until the loop count has been reached. was written for an assignment in the first A.I. course I took as an undergraduate student. Note: Better results with a higher loop (20000+) count, hidden layer node (30+) count, and using the moons data.
